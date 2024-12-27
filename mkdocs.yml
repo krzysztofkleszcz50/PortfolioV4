@@ -1,0 +1,20 @@
+site_name: Portfolio
+site_author: Krzysztof Kleszcz
+site_description: >-
+  Portfolio moich projektów. 
+
+repo_name: krzysztofkleszcz50/datascience_portfolio
+repo_url: https://github.com/krzysztofkleszcz50/datascience_portfolio/tree/master
+
+
+theme:
+  name: material
+  palette:
+    primary: amber
+
+nav:
+- Welcome page 👋: index.md
+- Data4Apps 🕵️‍♀️: survey_analysis/index.md
+- Data4Play 💻: data_playground/index.md
+- Mini Projects ✨: tablo/index.md
+
