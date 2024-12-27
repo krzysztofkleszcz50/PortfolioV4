@@ -63,7 +63,7 @@
         <ul>
             <li>Data4Apps</li>
             <li>Data4Play</li>
-            <li>Tablo</li>
+            <li>Mini Projects</li>
         </ul>
     </section>
 
